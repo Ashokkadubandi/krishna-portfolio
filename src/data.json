@@ -1,0 +1,96 @@
+{
+  "role": "Data Scientist",
+  "skills": [
+    {
+      "id": "python",
+      "name": "Python",
+      "category": "Programming",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      "description": "A versatile programming language widely used in data science.",
+      "can_do": [
+        "Clean and preprocess data",
+        "Build machine learning models",
+        "Automate data analysis workflows",
+        "Work with libraries like NumPy, Pandas, and Scikit-learn"
+      ]
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "category": "Math",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103658.png",
+      "description": "The foundation for understanding data patterns and uncertainty.",
+      "can_do": [
+        "Analyze trends and distributions",
+        "Perform hypothesis testing",
+        "Measure confidence and risk",
+        "Validate data-driven conclusions"
+      ]
+    },
+    {
+      "id": "machine_learning",
+      "name": "Machine Learning",
+      "category": "AI",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "description": "Techniques that allow systems to learn patterns from data.",
+      "can_do": [
+        "Build predictive models",
+        "Classify and cluster data",
+        "Detect anomalies",
+        "Improve decision-making with data"
+      ]
+    },
+    {
+      "id": "data_visualization",
+      "name": "Data Visualization",
+      "category": "Visualization",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png",
+      "description": "Presenting data in visual formats for easier understanding.",
+      "can_do": [
+        "Create charts and dashboards",
+        "Explain insights to non-technical users",
+        "Identify trends and outliers visually",
+        "Use tools like Matplotlib, Seaborn, or Tableau"
+      ]
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "category": "Databases",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGwG6MRDOTDXg9aJY8W68-foad4d6dIKPww&s",
+      "description": "A language used to manage and query structured databases.",
+      "can_do": [
+        "Retrieve data from databases",
+        "Filter and aggregate large datasets",
+        "Join multiple data sources",
+        "Prepare data for analysis"
+      ]
+    },
+    {
+      "id": "data_cleaning",
+      "name": "Data Cleaning",
+      "category": "Data Preparation",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3094/3094837.png",
+      "description": "The process of fixing or removing incorrect and incomplete data.",
+      "can_do": [
+        "Handle missing values",
+        "Remove duplicates",
+        "Correct inconsistent data",
+        "Improve data quality for modeling"
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "category": "Soft Skill",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1256/1256650.png",
+      "description": "Explaining data insights clearly and effectively.",
+      "can_do": [
+        "Present findings to stakeholders",
+        "Translate data insights into actions",
+        "Write clear reports",
+        "Collaborate with non-technical teams"
+      ]
+    }
+  ]
+}
