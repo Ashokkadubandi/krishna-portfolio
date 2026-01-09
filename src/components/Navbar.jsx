@@ -25,9 +25,10 @@ const NavbarSection = () => {
         <div onMouseEnter={() => setHov(true)} onMouseLeave={() => setHov(false)} 
         className={`text-xl font-bold ${hov ? 'text-blue-900' : 'text-white'}`} >Krishna Kishore Gedela</div>
         <ul className="space-x-24 hidden md:block">
-            <span onMouseEnter={() => scrollSection("about")} className={"text-white"}>About</span>
-            <span onMouseEnter={() => scrollSection("skills")} className={"text-white hover:text-blue-300"}>Skills</span>
-            <span onMouseEnter={() => scrollSection("projects")} className={"text-white hover:text-blue-300"}>Projects</span>
+            <span onMouseEnter={() => scrollSection("about")} className={"text-white cursor-pointer"}>About</span>
+            <span onMouseEnter={() => scrollSection("skills")} className={"text-white cursor-pointer"}>Skills</span>
+            <span onMouseEnter={() => scrollSection("projects")} className={"text-white cursor-pointer"}>Projects</span>
+            <span onMouseEnter={() => scrollSection("contact")} className={"text-white cursor-pointer"}>Contact</span>
         </ul>
         <div className="md:hidden text-white text-2xl">
             {menuOpen ? 

@@ -1,0 +1,30 @@
+{
+    "Role":"Data Scientist",
+    "Projects":[
+        {
+            "Title":"Drug–Side Effects–Medical Condition Analysis",
+            "Description":"Analysed ~2,900 medical records to study relationships between drugs, side effects, and medical conditions.Performed data cleaning, preprocessing, and EDA; applied Apriori association rule mining.Delivered a Jupyter Notebook with visual insights and ML-ready datasets. ",
+            "Technologies":["Python", "Pandas", "MSeaborny","Matplotlib"]
+        },
+        {
+            "Title":"Face Mask Detection using Deep Learning",
+            "Description":"Built a real-time face mask detection system using MobileNetV2 (Transfer Learning).Achieved 99.19% test accuracy on a dataset of 11,792 images.Evaluated model performance using accuracy/loss curves and confusion matrix; tested via OpenCV webcam",
+            "Technologies":["Python", "TensorFlow", "Keras","OpenCV"]
+        },
+        {
+            "Title":"Car Dekho – Used Car Price Prediction ",
+            "Description":"Developed ML models (Linear Regression, Random Forest, Gradient Boosting) for used car price prediction. Performed feature engineering, hyperparameter tuning, and model evaluation.Deployed a Streamlit web application for real-time price prediction. ",
+            "Technologies":["Python", "Scikit-learn", "Streamlit","Pandas"]
+        },
+        {
+            "Title":"DataSpark: Global Electronics Sales Analysis ",
+            "Description":"Performed EDA on customer, product, and sales datasets to derive business insights.Cleaned, preprocessed, and merged datasets; managed structured data using SQL.Built Power BI dashboards to visualize sales trends, customer behavior, and store performance.",
+            "Technologies":["Python", "SQL", "Power BI"]
+        },
+        {
+            "Title":"Redbus Data Scraping and Filtering",
+            "Description":"Built a web scraping pipeline using Selenium to extract bus routes, schedules, prices, and seat availability. Stored and managed scraped data in a SQL database for efficient querying and analysis.Developed an interactive Streamlit dashboard enabling dynamic filtering by route, price range, bus type, rating, and availability. ",
+            "Technologies":["Python", "Selenium", "SQL","Streamlit"]
+        }
+    ] 
+}
